@@ -58,17 +58,9 @@ setTimeout(() => {
 }, 5000); // Stop after 5 seconds
 ```
 
-## Documentation
-
-For detailed documentation and API reference, please see [here](https://link-to-your-documentation).
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please check the [Contribution Guidelines](CONTRIBUTING.md) for more details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Neoster/node-sox/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
