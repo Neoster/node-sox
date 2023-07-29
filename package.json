@@ -1,17 +1,25 @@
 {
   "name": "node-sox",
   "version": "1.0.0",
-  "description": "A NodeJS sox wrapper",
+  "description": "A Node.js wrapper for the 'sox' audio processing tool",
   "main": "index.js",
+  "author": "Tom Vos - DigitalFox",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neoster/node-sox.git"
+  },
+  "keywords": ["node", "sox", "audio", "processing"],
+  "homepage": "https://github.com/neoster/node-sox#readme",
+  "bugs": {
+    "url": "https://github.com/neoster/node-sox/issues"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "example": "node example.js"
   },
-  "type": "module",
   "dependencies": {
     "events": "^3.3.0",
     "child_process": "^1.0.0"
-  },
-  "author": "Tom Vos - DigitalFox",
-  "license": "ISC"
+  }
 }
